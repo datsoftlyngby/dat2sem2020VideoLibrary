@@ -7,4 +7,8 @@ Denne side indeholder en samling af videoer, som skal understøtte undervisninge
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
 | Introduktion   | [Introduktion](https://youtu.be/kTNOnOxkfDo) | Gennemgang af studiets opbygning, krav til forudsætninger og intro til semestrets indhold  |
+| UX & UI   | [UX & UI for udviklere](https://www.youtube.com/watch?v=suxPabcaALQ) | Introduktion til temaet om brugergrænseflader  |
+
+
+
 
