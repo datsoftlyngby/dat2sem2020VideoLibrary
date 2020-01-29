@@ -3,3 +3,8 @@
 ###Lyngby og Bornholm
 
 Denne side indeholder en samling af videoer, som skal understøtte undervisningen. Indholdet giver først og fremmest mening for de studerende, som har fulgt 1. semester i Lyngby eller på Bornholm, men alle der har interesse er selvfølgelig velkomne til at kigge med.
+
+| Emne   | Titel/video          | Indhold                  |
+| :----  | :----------    | :------------------------| 
+| Introduktion   | [Introduktion](https://youtu.be/kTNOnOxkfDo) | Gennemgang af studiets opbygning, krav til forudsætninger og intro til semestrets indhold  |
+
