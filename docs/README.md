@@ -15,7 +15,7 @@ Følgende videoer er lavet til at understøtte undervisning i [brugergrænseflad
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
 | Introduktion   | [UX & UI for udviklere](https://www.youtube.com/watch?v=suxPabcaALQ) (9:06) | Introduktion til temaet om brugergrænseflader  |
-| Prototyper   | [Adobe XD for udviklere](https://youtu.be/BEkzWirRA68) (9:06) | Lav dine egne protyper på baggrund af en use case |
+| Prototyper   | [Adobe XD for udviklere](https://youtu.be/BEkzWirRA68) (29:42) | Lav dine egne protyper på baggrund af en use case |
 
 
 
