@@ -6,7 +6,7 @@ Denne side indeholder en samling af videoer, som skal understøtte undervisninge
 
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
-| Introduktion   | [Introduktion](https://youtu.be/kTNOnOxkfDo) (17:39) | Gennemgang af 
+| Introduktion   | [Introduktion](https://www.youtube.com/watch?v=BfckE05Ue4E) (17:39) | Gennemgang af 
 
 ## Brugergrænseflader
 
