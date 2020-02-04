@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
+title: Dat 2. sem 2020 Video Library
+markdown: kramdown
+kramdown:
+  auto_ids: true
