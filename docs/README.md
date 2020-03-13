@@ -60,6 +60,14 @@ Her er en videoserie, hvor I bliver taget i hånden fra A-Z og koder et lille we
 |8. Håndtering af links|[Links og Redirection](https://youtu.be/IsG9NVE6j4Q) (13:03)|En ting er at hoppe fra en jsp til en anden via klik på en knap i en formular, en anden ting af at bruge et `<a href="....">` link. Her gives et bud på hvordan vi kan gøre det - og samtidig stryge forbi FrontControlleren|
 |9. Opsummering|[Kogebogsopskrift](https://youtu.be/5afd2Z2i0_Y) (7:26)|Projektet afrundes og forenden af regnbuen ligger en opskift på 4 trin, der skal gennemføres hver gang en ny jsp-side skal tilføjes |
 
+#### Bonus videoer, som bygger videre på BMI koden:
+
+| Emne   | Titel/video          | Indhold                  |
+| :----  | :----------    | :------------------------| 
+|10. Initialisering |[Initialisering af data](https://youtu.be/uCJJLUyV74k) (13:52)|Første gang man rammer index.jsp kan man godt have brug for at befolke sine datastrukturer fra en database etc. Se her hvordan.|
+
+
+
 ## IDE: IntelliJ (work in progress)
 På 1. og 2. semester har vi valgt primært at anvende [IntellJ](https://www.jetbrains.com/idea/) fra firmaet [JetBrains](https://www.jetbrains.com/), som [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (Integrated Development Environment). Hvis ikke du allerede har installeret IntelliJ, så kan du erhverve dig en [gratis licens for studerende](https://www.jetbrains.com/student/) her. Bagefter skal du downloade og installere IntelliJ i Ultimate Edition og indtaste den tilsendte licenskode. Hvis du hellere vil anvende Netbeans eller et andet IDE er det også fint, men videoerne på denne side er baseret på IntelliJ.
 
