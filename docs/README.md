@@ -50,6 +50,8 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 
 ### Del 1: Et simpel website til beregning af BMI
 
+[Git repository del 1](https://github.com/jonbertelsen/bmi_b/tree/master)
+
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
 |1. Mockup |[Intro til opgave og mockup i Adobe XD](https://youtu.be/yNQ9VWFhaVY) (13:05)|Der laves en mockup i Adobe XD|
@@ -65,6 +67,7 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 
 ### Del 2: Dynamiske formularer og persistens
 
+[Git repository del 2](https://github.com/jonbertelsen/bmi_b/tree/dynamicforms)
 
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
