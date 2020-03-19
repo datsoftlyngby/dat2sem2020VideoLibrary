@@ -65,9 +65,13 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |9. Opsummering|[Kogebogsopskrift](https://youtu.be/5afd2Z2i0_Y) (7:26)|Projektet afrundes og forenden af regnbuen ligger en opskift på 4 trin, der skal gennemføres hver gang en ny jsp-side skal tilføjes |
 |10. Initialisering |[Initialisering af data](https://youtu.be/uCJJLUyV74k) (13:52)|Første gang man rammer index.jsp kan man godt have brug for at befolke sine datastrukturer fra en database etc. Se her hvordan.|
 
+![](images/bmi_forms.jpg)
+
 ### Del 2: Dynamiske formularer og persistens
 
-[Git repository del 2](https://github.com/jonbertelsen/bmi_b/tree/dynamicforms)
+- [Git repository del 2](https://github.com/jonbertelsen/bmi_b/tree/dynamicforms)
+
+- [EER diagram over BMI database](images/bmi_eer.jpg)
 
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
