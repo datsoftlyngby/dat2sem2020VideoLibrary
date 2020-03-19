@@ -80,7 +80,7 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |19. Persistens|[BMI data gemmes i database](https://youtu.be/80sWpRSk8C8) (31:39)|BMI data gemmes i databasen via facade og datamappers|
 |20. Aktive form-knapper|[Knapper gøres aktive i generet formular](https://youtu.be/sXCSVFr5OKc) (36:02)|Efter at have genereret en formular gøres fjern og ret knapperne aktive, så de knyttes til enkelte rækker med unikke id'er|
 |21. Rediger tekstfelt|[Rediger et tekst formularfelt](https://youtu.be/pA3gwlJD5-I) (19:35)|Redigering af sportsinteressse kategori tekstfelt via en formular.|
-|22. Fjern og opdater|[Fjern og opdater kategori i database](https://youtu.be/pA3gwlJD5-I) (16:37)|Fjern og rediger indhold af tekstfelt i formular implementeres via facade og datamapper.|
+|22. Fjern og opdater|[Fjern og opdater kategori i database](https://youtu.be/MS4vWMfdHfg) (16:37)|Fjern og rediger indhold af tekstfelt i formular implementeres via facade og datamapper.|
 |23. Refaktorisering|[Afpudsning af kode](https://youtu.be/mva7Xsg9Z5A) (18:53)|Koden strammes op og diverse småmangler udbedres. Problemer med danske tegn (UTF-8), ny side til fejlmeddelelser og meget mere.|
 
 
