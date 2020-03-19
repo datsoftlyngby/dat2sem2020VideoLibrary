@@ -44,9 +44,11 @@ Følgende videoer er lavet til at understøtte undervisning i [opsætning af en 
 
 ## Java webstack BMI tutorial
 
-Her er en videoserie, hvor I bliver taget i hånden fra A-Z og koder et lille website, som kan beregne et BMI tal. Nedenstående tegning bruges i videoerne og viser hvordan kommunikationen mellem websiderne via front controlleren fungerer.
+Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og først koder et lille website, som kan beregne et BMI tal. Bagefter udvides funktionaliteten af websitet til at omfatte dynamisk genererede formularer gennem facade og datamappers. Nedenstående tegning bruges i videoerne og viser hvordan kommunikationen mellem websiderne via front controlleren fungerer.
 
 ![tegning](images/kogebogsopskrift.jpg)
+
+### Del 1: Et simpel website til beregning af BMI
 
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
@@ -59,13 +61,27 @@ Her er en videoserie, hvor I bliver taget i hånden fra A-Z og koder et lille we
 |7. Refaktorisering|[Refaktorisering](https://youtu.be/Uz7En7T8EgY) (7:20)|Så gøres koden mere test-bar ved at flytte bmi beregninger ud i nogle selvstændige hjælpefunktioner|
 |8. Håndtering af links|[Links og Redirection](https://youtu.be/IsG9NVE6j4Q) (13:03)|En ting er at hoppe fra en jsp til en anden via klik på en knap i en formular, en anden ting af at bruge et `<a href="....">` link. Her gives et bud på hvordan vi kan gøre det - og samtidig stryge forbi FrontControlleren|
 |9. Opsummering|[Kogebogsopskrift](https://youtu.be/5afd2Z2i0_Y) (7:26)|Projektet afrundes og forenden af regnbuen ligger en opskift på 4 trin, der skal gennemføres hver gang en ny jsp-side skal tilføjes |
+|10. Initialisering |[Initialisering af data](https://youtu.be/uCJJLUyV74k) (13:52)|Første gang man rammer index.jsp kan man godt have brug for at befolke sine datastrukturer fra en database etc. Se her hvordan.|
 
-#### Bonus videoer, som bygger videre på BMI koden:
+### Del 2: Dynamiske formularer og persistens
+
 
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
-|10. Initialisering |[Initialisering af data](https://youtu.be/uCJJLUyV74k) (13:52)|Første gang man rammer index.jsp kan man godt have brug for at befolke sine datastrukturer fra en database etc. Se her hvordan.|
-
+|11. Dynamiske formularer|[Introduktion formularer](https://youtu.be/rQUt7FNhSg8) (5:20)|Introduktion til dynamisk generering af formularer. Hvordan befolker man en dropdownliste med tekster og id'er fra en database? Hvordan redigerer man tekster i en database i en webformular og meget mere. Altsammen implementeret via Kasper command-pattern skabelon.|
+|12. Udvidet mockup|[Præsentation af ny prototype](https://youtu.be/JrgO-XG0pp4) (3:39)|BMI web applikationen udvides med ny funktionalitet.|
+|13. HTML form|[Formularen laves i HTML](https://youtu.be/3D_9TBoeweY) (12:35)|Textbokse, radio knapper, checkbokse og dropdown-lister bygges i html og styles med bootstrap klasser. Samtidig sættes name- og value attributter, så formulardata kan modtages i backend'en.|
+|14. Form parametre|[Modtagelse af form-parametre](https://youtu.be/NW3KzSroZHE) (8:45)|Modtagelse af diverse form-parametre ved post-request. Blandt vises hvordan checkbokse håndteres som en liste af værdier|
+|15. Test af parametre|[Test af form-parametre](https://youtu.be/MUWbtBl0r-Y) (6:35)|Når form-parametrene er modtaget fra et post-request, afprøves om vi får de forventede værdier.|
+|16. EER diagram|[Databasen modelleres](https://youtu.be/1kR9Wykb-vc) (5:07)|Databasen udvides i henhold til de nye krav til web applikationen|
+|17. Implementering af EER diagram|[Tabellerne laves i MySql Workbench](https://youtu.be/zoHZMul_6EA) (8:41)|På baggrund af EER-diagrammet implementeres tabellerne i MySql Workbench|
+|18. Datamapper og facade|[Datamapper og facade implementeres](https://youtu.be/R_OiOGVpFas) (16:20)|Data til dropdown-liste og checkbokse hentes via facade og datamapper.|
+|19. Initialisering|[Dynamisk generering af formular](https://youtu.be/_MohPFVIFlI) (18:17)|Initialisering af datastrukturer og dynamisk generering af formular|
+|19. Persistens|[BMI data gemmes i database](https://youtu.be/80sWpRSk8C8) (31:39)|BMI data gemmes i databasen via facade og datamappers|
+|20. Aktive form-knapper|[Knapper gøres aktive i generet formular](https://youtu.be/sXCSVFr5OKc) (36:02)|Efter at have genereret en formular gøres fjern og ret knapperne aktive, så de knyttes til enkelte rækker med unikke id'er|
+|21. Rediger tekstfelt|[Rediger et tekst formularfelt](https://youtu.be/pA3gwlJD5-I) (19:35)|Redigering af sportsinteressse kategori tekstfelt via en formular.|
+|22. Fjern og opdater|[Fjern og opdater kategori i database](https://youtu.be/pA3gwlJD5-I) (16:37)|Fjern og rediger indhold af tekstfelt i formular implementeres via facade og datamapper.|
+|23. Refaktorisering|[Afpudsning af kode](https://youtu.be/mva7Xsg9Z5A) (18:53)|Koden strammes op og diverse småmangler udbedres. Problemer med danske tegn (UTF-8), ny side til fejlmeddelelser og meget mere.|
 
 
 ## IDE: IntelliJ (work in progress)
