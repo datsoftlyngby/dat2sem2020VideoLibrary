@@ -48,7 +48,7 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 
 ![tegning](images/kogebogsopskrift.jpg)
 
-### Del 1: Et simpel website til beregning af BMI
+### BMI Del 1: Et simpel website til beregning af BMI
 
 [Git repository del 1](https://github.com/jonbertelsen/bmi_b/tree/master)
 
@@ -67,7 +67,7 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 
 ![](images/bmi_forms.jpg)
 
-### Del 2: Dynamiske formularer og persistens
+### BMI Del 2: Dynamiske formularer og persistens
 
 - [Git repository del 2](https://github.com/jonbertelsen/bmi_b/tree/dynamicforms)
 
@@ -89,6 +89,20 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |21. Rediger tekstfelt|[Rediger et tekst formularfelt](https://youtu.be/pA3gwlJD5-I) (19:35)|Redigering af sportsinteressse kategori tekstfelt via en formular.|
 |22. Fjern og opdater|[Fjern og opdater kategori i database](https://youtu.be/MS4vWMfdHfg) (16:37)|Fjern og rediger indhold af tekstfelt i formular implementeres via facade og datamapper.|
 |23. Refaktorisering|[Afpudsning af kode](https://youtu.be/mva7Xsg9Z5A) (18:53)|Koden strammes op og diverse småmangler udbedres. Problemer med danske tegn (UTF-8), ny side til fejlmeddelelser og meget mere.|
+
+### BMI Del 3: Deployment
+
+- [GIST med ny udgave af Connection.java](https://gist.github.com/jonbertelsen/6bd654de9eb724b898dd53bcccc77b09)
+- [GIST med setenv.sh eksempel](https://gist.github.com/jonbertelsen/3e1edf8ce226d062c1e745ca98694c79)
+
+
+| Emne   | Titel/video          | Indhold                  |
+| :----  | :----------    | :------------------------| 
+|24. Deployment|[Introduktion til deployment](https://youtu.be/rQUt7FNhSg8) (8:44)|Hvordan får vi vores Java Web Applikation til at køre på en Droplet? Her er en plan.|
+|25. Deployment af database|[Overførsel af database](https://youtu.be/gdYXjgt9y3s) (10:41)|Vores database på localhost skal overføres til MySql serveren på PROD. Dvs, på vores droplet. Det kræver lidt forarbejde.|
+|26. Credentials og setenv.sh|[Håndtering af JDBC bruger, password og connection string](https://youtu.be/6j5TbeAm2u8) (4:50)|MySql serveren på PROD har selvfølgelig ikke de samme credentials som på localhost. For at undgå at udstille sine brugernavne og kodeord på GitHub, anvender vi miljøvariabler i filen setenv.sh på Tomcat.|
+|27. Connection klassen|[Brug af miljøvariabler i Connection klassen](https://youtu.be/pyHaw3f4x0o) (6:04)|Java klassen "Connector" udvides til at finde ud af om vores webapp afvikles på localhost (DEV) eller PROD vha miljøvariabler.|
+|28. Deployment og debugging|[WAR-fil bygges og uploades til Tomcat](https://youtu.be/suICj0ghnjM) (9:55)|WAR-fil bygges i IntelliJ og uploades til Tomcat. Vi tager også et kig på Tomcats logfiler, hvor vigtig info til debugging findes.|
 
 
 ## IDE: IntelliJ (work in progress)
