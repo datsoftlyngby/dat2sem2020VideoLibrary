@@ -90,6 +90,8 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |22. Fjern og opdater|[Fjern og opdater kategori i database](https://youtu.be/MS4vWMfdHfg) (16:37)|Fjern og rediger indhold af tekstfelt i formular implementeres via facade og datamapper.|
 |23. Refaktorisering|[Afpudsning af kode](https://youtu.be/mva7Xsg9Z5A) (18:53)|Koden strammes op og diverse småmangler udbedres. Problemer med danske tegn (UTF-8), ny side til fejlmeddelelser og meget mere.|
 
+![](images/deployment.jpg)
+
 ### BMI Del 3: Deployment
 
 - [GIST med ny udgave af Connection.java](https://gist.github.com/jonbertelsen/6bd654de9eb724b898dd53bcccc77b09)
