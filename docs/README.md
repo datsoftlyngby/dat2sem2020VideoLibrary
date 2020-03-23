@@ -100,7 +100,7 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
-|24. Deployment|[Introduktion til deployment](https://youtu.be/rQUt7FNhSg8) (8:44)|Hvordan får vi vores Java Web Applikation til at køre på en Droplet? Her er en plan.|
+|24. Deployment|[Introduktion til deployment](https://youtu.be/UfVKLyz9ub0) (8:44)|Hvordan får vi vores Java Web Applikation til at køre på en Droplet? Her er en plan.|
 |25. Deployment af database|[Overførsel af database](https://youtu.be/gdYXjgt9y3s) (10:41)|Vores database på localhost skal overføres til MySql serveren på PROD. Dvs, på vores droplet. Det kræver lidt forarbejde.|
 |26. Credentials og setenv.sh|[Håndtering af JDBC bruger, password og connection string](https://youtu.be/6j5TbeAm2u8) (4:50)|MySql serveren på PROD har selvfølgelig ikke de samme credentials som på localhost. For at undgå at udstille sine brugernavne og kodeord på GitHub, anvender vi miljøvariabler i filen setenv.sh på Tomcat.|
 |27. Connection klassen|[Brug af miljøvariabler i Connection klassen](https://youtu.be/pyHaw3f4x0o) (6:04)|Java klassen "Connector" udvides til at finde ud af om vores webapp afvikles på localhost (DEV) eller PROD vha miljøvariabler.|
