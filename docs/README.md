@@ -106,6 +106,15 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |27. Connection klassen|[Brug af miljøvariabler i Connection klassen](https://youtu.be/pyHaw3f4x0o) (6:04)|Java klassen "Connector" udvides til at finde ud af om vores webapp afvikles på localhost (DEV) eller PROD vha miljøvariabler.|
 |28. Deployment og debugging|[WAR-fil bygges og uploades til Tomcat](https://youtu.be/suICj0ghnjM) (9:55)|WAR-fil bygges i IntelliJ og uploades til Tomcat. Vi tager også et kig på Tomcats logfiler, hvor vigtig info til debugging findes.|
 
+## UML: Diagrammer
+
+| Emne   | Titel/video          | Indhold                  |
+| :----  | :----------    | :------------------------| 
+|1. UML intro|[Introduktion til UML-diagrammer](https://youtu.be/33tqtGXUdMo) (10:43)|En kort introduktion til UML diagrammer og deres anvendelse|
+|2. UML Navigationsdiagram|[Tilstands/navigationsdiagram](https://youtu.be/6O_Uvy_pjX8) (35:30)|UML anvendes til at illustrere navigationen på et website. Tegnes i hånden og kodes i PlantUML|
+|3. UML Sekvensdiagram|[Sekvensdiagram](https://youtu.be/AZt8Zo_5xto) (43:59)|PlantUML anvendes til at tegne et sekvensdiagram for Kaspers Command Pattern skabelon|
+| 4. UML Use Case diagram | [Use Case Diagram](https://youtu.be/qUqwOhx50Ds) (12:37) | Lær kunsten at designe Use Case Diagrammer sammen med en kunde |
+| 5. UML Domænemodel | [OOD Domænemodel](https://youtu.be/GqGL4X_-hW4) (16:31) | Lær den endnu finere kunst, at designe domænemodeller før der er kodet en linie endnu |
 
 ## IDE: IntelliJ (work in progress)
 På 1. og 2. semester har vi valgt primært at anvende [IntellJ](https://www.jetbrains.com/idea/) fra firmaet [JetBrains](https://www.jetbrains.com/), som [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (Integrated Development Environment). Hvis ikke du allerede har installeret IntelliJ, så kan du erhverve dig en [gratis licens for studerende](https://www.jetbrains.com/student/) her. Bagefter skal du downloade og installere IntelliJ i Ultimate Edition og indtaste den tilsendte licenskode. Hvis du hellere vil anvende Netbeans eller et andet IDE er det også fint, men videoerne på denne side er baseret på IntelliJ.
