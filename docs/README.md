@@ -106,6 +106,8 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |27. Connection klassen|[Brug af miljøvariabler i Connection klassen](https://youtu.be/pyHaw3f4x0o) (6:04)|Java klassen "Connector" udvides til at finde ud af om vores webapp afvikles på localhost (DEV) eller PROD vha miljøvariabler.|
 |28. Deployment og debugging|[WAR-fil bygges og uploades til Tomcat](https://youtu.be/suICj0ghnjM) (9:55)|WAR-fil bygges i IntelliJ og uploades til Tomcat. Vi tager også et kig på Tomcats logfiler, hvor vigtig info til debugging findes.|
 
+![](images/bmi_sekvens_beregn.png)
+
 ## UML: Diagrammer
 
 | Emne   | Titel/video          | Indhold                  |
