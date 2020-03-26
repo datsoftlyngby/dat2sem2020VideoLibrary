@@ -108,6 +108,13 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 
 ![](images/bmi_sekvens_beregn.png)
 
+### BMI Del 4: JavaDoc
+
+| Emne   | Titel/video          | Indhold                  |
+| :----  | :----------    | :------------------------| 
+|1. JavaDoc i IntelliJ|[Sådan genererer du JavaDoc i IntelliJ](https://youtu.be/mG2ODoiMyxw) (12:15)|Automatisk generering af dokumentation i Javaprojekter med JavaDoc på Package, Class og Method - niveau|
+|2. JavaDoc på GitHub Pages|[Flyt JavaDoc til GitHub Pages](https://youtu.be/0ljFowHAJm4) (11:42)|Sådan får du lagt din JavaDoc på GitHub pages. Se også hvordan du genererer JavaDoc via Maven.|
+
 ## UML: Diagrammer
 
 | Emne   | Titel/video          | Indhold                  |
