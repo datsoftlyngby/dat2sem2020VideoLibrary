@@ -106,7 +106,6 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |27. Connection klassen|[Brug af miljøvariabler i Connection klassen](https://youtu.be/pyHaw3f4x0o) (6:04)|Java klassen "Connector" udvides til at finde ud af om vores webapp afvikles på localhost (DEV) eller PROD vha miljøvariabler.|
 |28. Deployment og debugging|[WAR-fil bygges og uploades til Tomcat](https://youtu.be/suICj0ghnjM) (9:55)|WAR-fil bygges i IntelliJ og uploades til Tomcat. Vi tager også et kig på Tomcats logfiler, hvor vigtig info til debugging findes.|
 
-![](images/bmi_sekvens_beregn.png)
 
 ### BMI Del 4: JavaDoc
 
@@ -115,7 +114,11 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |1. JavaDoc i IntelliJ|[Sådan genererer du JavaDoc i IntelliJ](https://youtu.be/mG2ODoiMyxw) (12:15)|Automatisk generering af dokumentation i Javaprojekter med JavaDoc på Package, Class og Method - niveau|
 |2. JavaDoc på GitHub Pages|[Flyt JavaDoc til GitHub Pages](https://youtu.be/0ljFowHAJm4) (11:42)|Sådan får du lagt din JavaDoc på GitHub pages. Se også hvordan du genererer JavaDoc via Maven.|
 
-## UML: Diagrammer
+![](images/bmi_sekvens_beregn.png)
+
+## UML: Diagrammer og objektorienteret design
+
+Her kan du lære lidt om UML, hvornår og hvordan man bruger hvilke diagrammer, og hvordan du tegner dem i PlantUML.
 
 | Emne   | Titel/video          | Indhold                  |
 | :----  | :----------    | :------------------------| 
@@ -123,7 +126,7 @@ Her følger en 2-delt videoserie, hvor I bliver taget i hånden fra A-Z og førs
 |2. UML Navigationsdiagram|[Tilstands/navigationsdiagram](https://youtu.be/6O_Uvy_pjX8) (35:30)|UML anvendes til at illustrere navigationen på et website. Tegnes i hånden og kodes i PlantUML|
 |3. UML Sekvensdiagram|[Sekvensdiagram](https://youtu.be/AZt8Zo_5xto) (43:59)|PlantUML anvendes til at tegne et sekvensdiagram for Kaspers Command Pattern skabelon|
 | 4. UML Use Case diagram | [Use Case Diagram](https://youtu.be/qUqwOhx50Ds) (12:37) | Lær kunsten at designe Use Case Diagrammer sammen med en kunde |
-|5. UML Use Case diagram|[Tegn i PlantUML]() ()|Lær at tegne Use Case diagrammer i PlanUML|
+|5. UML Use Case diagram|[Tegn i PlantUML](https://youtu.be/q1R4kmMXhBE) (8:21)|Lær at tegne Use Case diagrammer i PlanUML|
 | 6. UML Domænemodel | [OOD Domænemodel](https://youtu.be/GqGL4X_-hW4) (16:31) | Lær den endnu finere kunst, at designe domænemodeller før der er kodet en linie endnu |
 |7. UML Domænemodel|[Tegn i PlantUML](https://youtu.be/IKpWXZmMass) (10:00)| Lær at tegne domænemodelleri PlantUML |
 |8. UML Aktivitetsdiagram|[Teori og PlanUML](https://youtu.be/aKASc_lcQ_0) (16:32)|Lær at tegne aktivitetsdiagrammer i PlanUML og forstå værdien af dem|
