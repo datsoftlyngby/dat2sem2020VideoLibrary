@@ -131,6 +131,23 @@ Her kan du lære lidt om UML, hvornår og hvordan man bruger hvilke diagrammer, 
 |7. UML Domænemodel|[Tegn i PlantUML](https://youtu.be/IKpWXZmMass) (10:00)| Lær at tegne domænemodelleri PlantUML |
 |8. UML Aktivitetsdiagram|[Teori og PlanUML](https://youtu.be/aKASc_lcQ_0) (16:32)|Lær at tegne aktivitetsdiagrammer i PlanUML og forstå værdien af dem|
 
+
+## SVG Workshop
+
+| Emne   | Titel/video          | Indhold                  |
+| :----  | :----------    | :------------------------| 
+|1. Intro | [Introduktion til SVG og vektorgrafik](https://youtu.be/B0DVyeJlW1o) (33:41)|Workshop om SVG, som er skræddersyet til 2. semester på datamatikerstudiet i Lyngby og på Bornholm foråret 2020.|
+|2. Simple tegninger | [Tegning af flag og simple elementer](https://youtu.be/NhMslvfIFlA) (23:08)|Kom i gang med at tegne. Rektangler og simple elementer.|
+|3. Øvelse| [Gennemgang af øvelse](https://youtu.be/eZMdzA83PEM) (13:35)|Se en løsning på tegning af svensk flag og cirkler. |
+|4. Carport I| [ Tegning af simpel carport](https://youtu.be/m9sbCQKcI3c) (7:20)|Forslag til hvordan man kan tegne en meget simpel carport. [GIST](https://gist.github.com/jonbertelsen/ee5f8f43a185edd5c332382be77a9b36)|
+|5. Carport II| [Indlejret tegning med målestok](https://youtu.be/iAAZSzzFxl8) (12:04)|Der tilføjes måleangivelser på carport-tegningen. [GIST](https://gist.github.com/jonbertelsen/64308f96e7f0ae7d33e45412f91240f9)|
+|6. Java/JSP| [SVG i Java webstack (dynamiske tegninger)](https://youtu.be/eLukJewGPEs) (9:24)|Forslag til hvordan man kan generere tegninger i Java backend og præsentere dem som SVG på JSP-sider. [GitHub Repo](https://github.com/jonbertelsen/svgdemo)|
+
+
+
+
+
+
 ## IDE: IntelliJ (work in progress)
 På 1. og 2. semester har vi valgt primært at anvende [IntellJ](https://www.jetbrains.com/idea/) fra firmaet [JetBrains](https://www.jetbrains.com/), som [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (Integrated Development Environment). Hvis ikke du allerede har installeret IntelliJ, så kan du erhverve dig en [gratis licens for studerende](https://www.jetbrains.com/student/) her. Bagefter skal du downloade og installere IntelliJ i Ultimate Edition og indtaste den tilsendte licenskode. Hvis du hellere vil anvende Netbeans eller et andet IDE er det også fint, men videoerne på denne side er baseret på IntelliJ.
 
