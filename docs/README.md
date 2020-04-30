@@ -143,8 +143,15 @@ Her kan du lære lidt om UML, hvornår og hvordan man bruger hvilke diagrammer, 
 |5. Carport II| [Indlejret tegning med målestok](https://youtu.be/iAAZSzzFxl8) (12:04)|Der tilføjes måleangivelser på carport-tegningen. [GIST](https://gist.github.com/jonbertelsen/64308f96e7f0ae7d33e45412f91240f9)|
 |6. Java/JSP| [SVG i Java webstack (dynamiske tegninger)](https://youtu.be/eLukJewGPEs) (9:24)|Forslag til hvordan man kan generere tegninger i Java backend og præsentere dem som SVG på JSP-sider. [GitHub Repo](https://github.com/jonbertelsen/svgdemo)|
 
+## Test Workshop
 
-
+| Emne   | Titel/video          | Indhold                  |
+| :----  | :----------    | :------------------------| 
+|1. Intro|[Introduktion til test](https://youtu.be/UJAooq-_6s4) (8:24)| Om at udvikle det rigtige vs. udvikle rigtigt |
+|2. Teori|[Gennemgang af pensum](https://youtu.be/EAONJ7rbO0U) (39:12)| Et kig på 2. semesters emner om test |
+|3. Strategi|[Strategi for test af Fog Carport Projekt](https://youtu.be/kWuVSk4bcOE) (20:21)| Forslag til hvordan man kan angribe Fog opgaven |
+|4 Unit test|[Unit test af SVG klasse](https://youtu.be/M17rAmp103M) (20:30)| Kodegennemgang. [GitHub Repo](https://github.com/jonbertelsen/svgdemo) |
+|5. Integrationstest|[Integrationstest af datamapper](https://youtu.be/qkczZSwgZhE) (25:34)| Kodegennemgang. [GitHub Repo](https://github.com/jonbertelsen/svgdemo)|
 
 
 
